@@ -1,4 +1,4 @@
-# Judul Project Akhir Data Science & AI
+# Analisis Supervised dan Unsupervised Learning untuk Klasifikasi serta Segmentasi Diabetes pada Pima Indians Diabetes 
 
 ## Anggota Kelompok
 - Najswa Mahfirotul Safitri	 (B1C024018)
